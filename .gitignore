@@ -1,0 +1,9 @@
+META-INF/
+WEB-INF/
+home/
+htmls/
+logs/
+node_modules/
+package.json
+script/
+style/
