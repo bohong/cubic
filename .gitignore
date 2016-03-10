@@ -1,8 +1,6 @@
-META-INF/
-WEB-INF/
-htmls/
-logs/
-node_modules/
-package.json
-script/
-style/
+htmls
+META-INF
+script
+style
+WEB-INF
+login.jsp
